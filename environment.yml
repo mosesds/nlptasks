@@ -1,0 +1,9 @@
+name: nlp
+channels:
+  - defaults
+dependencies:
+  - python==3.8
+  - jupyter
+  - nb_conda_kernels
+prefix: C:\Users\DE30373\.conda\envs\nlp
+
